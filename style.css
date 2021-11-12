@@ -1,9 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
 .card-img-top {
-  border-radius: 50%;
-  width: 210px !important;
-  height: 210px !important;
+	border-radius: 50%;
+	height: 210px !important;
+	object-fit: cover;
+	width: 210px !important;
 }
 .owl-dot {
   display: none !important;
